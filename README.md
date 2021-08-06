@@ -1,9 +1,9 @@
 # LoanPredictor
 Rough mini-project to automate and predict a loan predictor to an API deployed on an AWS EC2 Instance.
 
-AWS EC2 Instance URL : ec2-18-190-154-232.us-east-2.compute.amazonaws.com:4555/scoring
+### AWS EC2 Instance URL : ec2-18-190-154-232.us-east-2.compute.amazonaws.com:4555/scoring
 
-Example JSON QUERY:
+### Example JSON QUERY:
 
 {
 "Gender": "Male",
@@ -16,6 +16,5 @@ Example JSON QUERY:
 "Loan_Amount_Term" : 360.0,
 "Credit_History": 1,
 "TotalIncome_log": 7.32
-
 }
 ** NOTE loan amount and total income_log are logged values that were not implemented within the ML pipeline, will implement at a later stage.
