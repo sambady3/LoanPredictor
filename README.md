@@ -1,7 +1,7 @@
 # LoanPredictor
 Rough mini-project to automate and deploy a loan predictor using Flask API deployed on an AWS EC2 Instance.
 
-### AWS EC2 Instance URL : ec2-18-190-154-232.us-east-2.compute.amazonaws.com:4555/scoring
+### AWS EC2 Instance URL : ec2-18-190-154-232.us-east-2.compute.amazonaws.com:4555/scoring (no longer live)
 
 ### Example JSON QUERY:
 
