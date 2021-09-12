@@ -1,7 +1,9 @@
 # LoanPredictor
-Rough mini-project to automate and deploy a loan predictor using Flask API deployed on an AWS EC2 Instance.
+- Rough mini-project to automate and deploy a loan predictor using Flask API deployed on an AWS EC2 Instance.
 
-Used WinSCP and PuTTy to connect and deploy Flask API on EC2 instance manually. 
+- Constructed transformation pipelines to transform data through preprocessing and feature engineering stages.
+
+- Used WinSCP and PuTTy to connect and deploy Flask API on EC2 instance manually. 
 
 ### AWS EC2 Instance URL : ec2-18-190-154-232.us-east-2.compute.amazonaws.com:4555/scoring (no longer live)
 
